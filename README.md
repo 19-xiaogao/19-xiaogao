@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭  I'm a blockchain developer, I use solidity,rust, javascript,golang programming language.
+- 🔭  I'm a blockchain developer
 - If you have a blockchain project that needs developers welcome your message. longjiuwei999@gmail.com
 
 ## Status
