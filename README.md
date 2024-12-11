@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭  I'm a blockchain developer
-- If you have a blockchain project that needs developers welcome your message. longjiuwei999@gmail.com
+- If you have a blockchain project that needs developers welcome your message. patricksssa78@gmail.com
 
 ## Status
 
