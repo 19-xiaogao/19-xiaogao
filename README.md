@@ -44,34 +44,4 @@
   <img src="https://img.shields.io/badge/Blockchain%20Tech-9B59B6?style=for-the-badge"/>
 </p>
 
----
 
-## 🌟 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| 🐍 | Always building — stay tuned for more! |
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=19-xiaogao&show_icons=true&theme=github_dark&hide_title=false" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=19-xiaogao&theme=github-dark-blue" alt="streak" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=19-xiaogao&theme=github-compact&radius=16"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-16A085?style=for-the-badge&logo=blogger&logoColor=white"/></a> -->
-  <!-- <a href="https://your-linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-</p>
-
----
